@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # hello_world
 First repository (from tutorial)
 
@@ -10,4 +10,4 @@ Git commands:
 - git push: Updates the online repository from desktop
 - git commit -m "placeholder": the placeholder refers to comments regarding your uploads to the web
 - git add -A: Adds changed files to staging area
->>>>>>>
+
