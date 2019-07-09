@@ -18,4 +18,5 @@ Git commands:
 - git pull: Updates desktop repository
 - git push: Updates the online repository from desktop
 - git commit -m "placeholder": the placeholder refers to comments regarding your uploads to the web
+- git add -A: Adds changed files to staging area
 >>>>>>> 5377cb4f71a71de91a0c9c07be1b5d087a291e81
