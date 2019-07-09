@@ -7,4 +7,4 @@ Git commands:
 - git status: outlines whether there are any differences from previous version (GitHub)
 - git pull: Updates desktop repository
 - git push: Updates the online repository from desktop
-- git commit -a "placeholder": the placeholder refers to comments regarding your uploads to the web
+- git commit -m "placeholder": the placeholder refers to comments regarding your uploads to the web
